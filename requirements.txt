@@ -1,3 +1,4 @@
+pandas
 tensorflow
 opencv-python
 numpy
